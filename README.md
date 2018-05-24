@@ -15,5 +15,5 @@
 
 ## 顶刊/顶会
 
-[CVPR 2018](cvpr2018-paper-list.csv)
+[CVPR 2018](2018/cvpr2018-paper-list.csv)
 
