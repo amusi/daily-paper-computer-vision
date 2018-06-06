@@ -21,3 +21,4 @@
 
 [CVPR 2018](2018/cvpr2018-paper-list.csv)
 
+CVPR 2017: 百度云: https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw 密码: hnzg
