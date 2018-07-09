@@ -39,6 +39,8 @@
 
 ## 顶刊/顶会
 
-[CVPR 2018](2018/cvpr2018-paper-list.csv)
+[CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
 
-CVPR 2017: 百度云: https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw 密码: hnzg
+CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+
+CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
