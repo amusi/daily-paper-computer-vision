@@ -57,6 +57,8 @@
 
 ## 顶刊/顶会
 
+[ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
+
 [CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
 
 CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
