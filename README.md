@@ -3,6 +3,8 @@
 
 ## 日记
 
+[2018-10-17](2018/10/17.md): 2篇论文速递，都是ECCV 2018 paper，都是关于语义分割（Semantic Segmentation），一篇提出双边分割网络（Bilateral Segmentation Network，BiSeNet）在不牺牲空间分辨率（spatial resolution）的情况下来实现实时inference速度；另一篇提出UDA框架和CBST框架，并引入空间先验（spatial prior）来细化生成的标签。
+
 [2018-10-12](2018/10/12.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出IoU-Net，用来学习来预测每个检测到的边界框与匹配的ground truth 之间的IoU；另一篇提出DetNet，这是一种专门用于物体检测的新型 backbone 网络。
 
 [2018-08-25](2018/08/25.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的弱监督和半监督框架可实现含无限数量标签的语义分割；另一篇提出使用立体匹配网络作为proxy 来从合成数据中学习深度，并使用预测的立体视差图来监督单目深度估计网络。
