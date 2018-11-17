@@ -3,6 +3,10 @@
 
 ## 日记
 
+[2018-10-17](2018/10/17.md): 2篇论文速递，都是ECCV 2018 paper，都是关于语义分割（Semantic Segmentation），一篇提出双边分割网络（Bilateral Segmentation Network，BiSeNet）在不牺牲空间分辨率（spatial resolution）的情况下来实现实时inference速度；另一篇提出UDA框架和CBST框架，并引入空间先验（spatial prior）来细化生成的标签。
+
+[2018-10-12](2018/10/12.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出IoU-Net，用来学习来预测每个检测到的边界框与匹配的ground truth 之间的IoU；另一篇提出DetNet，这是一种专门用于物体检测的新型 backbone 网络。
+
 [2018-08-25](2018/08/25.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的弱监督和半监督框架可实现含无限数量标签的语义分割；另一篇提出使用立体匹配网络作为proxy 来从合成数据中学习深度，并使用预测的立体视差图来监督单目深度估计网络。
 
 [2018-08-15](2018/08/15.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新颖的运动变换变分自动编码器（MT-VAE），用于学习运动序列生成；另一篇提出利用FiLM来调节语言上基于图像的卷积网络计算，解决视推理问题。
@@ -57,10 +61,16 @@
 
 ## 顶刊/顶会
 
-[ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
+**ECCV 2018**
 
-[CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
+- 2018
+  - [ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
+  - ECCV 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1Mg0Kw9bepUK6_vqqVSOjNQ)   密码: mh97
 
-CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+**CVPR**
 
-CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
+- 2018
+  - [CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
+  - CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+- 2017
+  - CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
