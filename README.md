@@ -20,10 +20,16 @@
 **CVPR**
 
 - 2019
+
   - [CVPR 2019所有录用论文清单](<http://openaccess.thecvf.com/CVPR2019.py>) 
 
+  - CVPR 2019论文PDF下载：[百度云链接](https://pan.baidu.com/s/1WMOU3JgeKsYA0YCeW09uHw ) 密码: b7uj
+
 - 2018
+
   - [CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
   - CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+
 - 2017
+
   - CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
