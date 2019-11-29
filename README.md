@@ -47,7 +47,12 @@
   - [ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
   - ECCV 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1Mg0Kw9bepUK6_vqqVSOjNQ)   密码: mh97
 
+**NeurIPS**
+
+- 2019
+  - NeurIPS 2019 录用论文名单（1427篇）：[百度云链接](https://pan.baidu.com/s/1TxD263qqXmja3fBZVwtP3g)  密码：04wn 
+
 **IJCAI**
 
 - 2019
-  - [IJCAI 2019所有录用论文清单（847篇）](./PDF/IJCAI 2019 录用论文名单(847篇).pdf)
+  - IJCAI 2019所有录用论文清单（847篇）：[百度云链接](https://pan.baidu.com/s/1mVEowSZLBcz3X-_CZt7svA)  密码：v6ps
