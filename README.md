@@ -3,6 +3,7 @@
 
 - [CV 优质论文速递](#PaperDaily)
 - [CV 顶会/顶刊](#TopPaper)
+- [2019 CV论文最佳综述](#TopSurvey)
 
 <a name="PaperDaily"></a>
 
@@ -56,3 +57,15 @@
 
 - 2019
   - IJCAI 2019所有录用论文清单（847篇）：[百度云链接](https://pan.baidu.com/s/1mVEowSZLBcz3X-_CZt7svA)  密码：v6ps
+
+<a name="TopSurvey"></a>
+
+## 2019 CV论文最佳综述
+
+- [2019年4篇目标检测算法最佳综述](https://zhuanlan.zhihu.com/p/94090477) 
+  - [百度云链接](https://pan.baidu.com/s/1KPWaEqun3a1T5fddmrf49A)     密码：zsmv
+
+- [2019年5篇图像分割算法最佳综述](https://zhuanlan.zhihu.com/p/95046357) 
+  - [百度云链接]( https://pan.baidu.com/s/1m12K1yOgjLy2xfDuKnxz9w )     密码： u3j2
+-  [2019年3篇目标跟踪算法最佳综述]( https://zhuanlan.zhihu.com/p/95499141 ) 
+  - [百度云链接]( https://pan.baidu.com/s/1y8LKO_L2m8shcJJ5uNMa8A )     密码： tp2z 
