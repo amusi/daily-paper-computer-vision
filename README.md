@@ -13,6 +13,8 @@
 - 2019
   - [2019-03-12](2019/03/12.md)：本文分享共10篇论文（含5篇CVPR 2019），涉及目标检测和语义分割等。
   - [2019-01-01~01-04](2019/01/01-04.md): 52篇论文速递，涉及人脸识别和图像分类等。
+  - 2019-11-23: [8篇目标检测最新论文(EfficientDet/EdgeNet/ASFF等）](https://mp.weixin.qq.com/s/qRr0199V1X-E5kTlXTcvig)
+  - 2019-12-09: [16篇目标检测最新论文（ATSS/MnasFPN/SAPD/CSPNet等）](https://mp.weixin.qq.com/s/q_0NntaL04zh5GYPC55oqw)
 
 为了方便内容沉淀和检索，现在[【CVer学术交流群】](https://t.zsxq.com/nIieyRz) 中来完成**CV优质论文速递**的每日更新，欢迎各位 CVer 加入！互相学习，一起进步~
 
@@ -64,7 +66,6 @@
 
 - [2019年4篇目标检测算法最佳综述](https://zhuanlan.zhihu.com/p/94090477) 
   - [百度云链接](https://pan.baidu.com/s/1KPWaEqun3a1T5fddmrf49A)     密码：zsmv
-
 - [2019年5篇图像分割算法最佳综述](https://zhuanlan.zhihu.com/p/95046357) 
   - [百度云链接]( https://pan.baidu.com/s/1m12K1yOgjLy2xfDuKnxz9w )     密码： u3j2
 -  [2019年3篇目标跟踪算法最佳综述]( https://zhuanlan.zhihu.com/p/95499141 ) 
