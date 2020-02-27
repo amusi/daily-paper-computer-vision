@@ -10,7 +10,8 @@
 ## CV 优质论文速递
 
 - 2020
-  - 2020-02-19: [一文看尽10篇目标检测最新论文（MetaOD/P-RSDet/MatrixNets等）](https://mp.weixin.qq.com/s/x0b73c_5CYCUw4zUaei75g)
+  - 2020-02-19：[一文看尽10篇目标检测最新论文（MetaOD/P-RSDet/MatrixNets等）](https://mp.weixin.qq.com/s/x0b73c_5CYCUw4zUaei75g)
+  - 2020-02-20：[一文看尽9篇语义分割最新论文（GPSNet/Graph-FCN/HMANet等）](https://mp.weixin.qq.com/s/E687mJnB-y8BSDjT5EhqvQ)
 - [2019](2019-Paper.md)
   - [2019-03-12](2019/03/12.md)：本文分享共10篇论文（含5篇CVPR 2019），涉及目标检测和语义分割等。
   - [2019-01-01~01-04](2019/01/01-04.md): 52篇论文速递，涉及人脸识别和图像分类等。
