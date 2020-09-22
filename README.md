@@ -10,6 +10,9 @@
 ## CV 优质论文速递
 
 - 2020
+  - 2020-09-22：[ECCV 2020 论文开源项目合集](https://github.com/amusi/ECCV2020-Code)
+  - 2020-09-22：[CVPR 2020 论文开源项目合集](https://github.com/amusi/CVPR2020-Code)
+  - 2020-09-22：[300+篇CVPR 2020代码开源的论文，全在这里了！](https://mp.weixin.qq.com/s/6ns4tktWhAbW2Ru_CkWu4Q)
   - 2020-06-11：[270篇CVPR 2020代码开源的论文，全在这里了！](https://mp.weixin.qq.com/s/9tIrqcJsF_P-4JZag6cCGw)
   - 2020-02-21：[一文看尽7篇目标跟踪最新论文（ABCTracker/MAST/L1DPF-M等）](https://mp.weixin.qq.com/s/I9Eq3RnIT0XQvWc5GILmVA)
   - 2020-02-19：[一文看尽10篇目标检测最新论文（MetaOD/P-RSDet/MatrixNets等）](https://mp.weixin.qq.com/s/x0b73c_5CYCUw4zUaei75g)
@@ -20,7 +23,6 @@
   - 2019-11-23: [8篇目标检测最新论文(EfficientDet/EdgeNet/ASFF等）](https://mp.weixin.qq.com/s/qRr0199V1X-E5kTlXTcvig)
   - 2019-12-09: [16篇目标检测最新论文（ATSS/MnasFPN/SAPD/CSPNet等）](https://mp.weixin.qq.com/s/q_0NntaL04zh5GYPC55oqw)
   - 2019-12-18: [4篇实时语义分割最新论文（MSFNet/LiteSeg/FDDWNet/RGPNet）](https://mp.weixin.qq.com/s/-WD5adiSWOxRIT3nZf6R_Q)
-
 - [2018](2018-Paper.md)
 
 为了方便内容沉淀和检索，现在[【CVer学术交流群】](https://t.zsxq.com/nIieyRz) 中来完成**CV优质论文速递**的每日更新，欢迎各位 CVer 加入！互相学习，一起进步~
