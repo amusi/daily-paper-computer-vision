@@ -10,6 +10,7 @@
 ## CV 优质论文速递
 
 - 2020
+  - 2020-09-24：[ECCV 2020 目标检测论文大盘点（49篇论文）](https://mp.weixin.qq.com/s/SRj6H4pK1BdzHjiDAC_2NA)
   - 2020-09-22：[ECCV 2020 论文开源项目合集](https://github.com/amusi/ECCV2020-Code)
   - 2020-09-22：[CVPR 2020 论文开源项目合集](https://github.com/amusi/CVPR2020-Code)
   - 2020-09-22：[300+篇CVPR 2020代码开源的论文，全在这里了！](https://mp.weixin.qq.com/s/6ns4tktWhAbW2Ru_CkWu4Q)
