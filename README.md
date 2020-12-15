@@ -10,6 +10,7 @@
 ## CV 优质论文速递
 
 - 2020
+  - 2020-12-10：[这三篇目标检测论文刚刚开源了！AutoAssign/可变形DETR/DeFCN](https://mp.weixin.qq.com/s/nAp6O1KDew7FSYSlcfIJOg)
   - 2020-09-24：[ECCV 2020 目标检测论文大盘点（49篇论文）](https://mp.weixin.qq.com/s/SRj6H4pK1BdzHjiDAC_2NA)
   - 2020-09-22：[ECCV 2020 论文开源项目合集](https://github.com/amusi/ECCV2020-Code)
   - 2020-09-22：[CVPR 2020 论文开源项目合集](https://github.com/amusi/CVPR2020-Code)
