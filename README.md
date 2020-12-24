@@ -2,7 +2,7 @@
 **记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文**
 
 - [CV 优质论文速递](#PaperDaily)
-- [CV 顶会/顶刊](#TopPaper)
+- [CV 顶会/顶刊（2017-2020）](#TopPaper)
 - [2019 CV论文最佳综述](#TopSurvey)
 
 <a name="PaperDaily"></a>
@@ -42,7 +42,7 @@
 - 2020
   - [CVPR 2020所有录用论文清单](http://openaccess.thecvf.com/CVPR2020.py)
   - CVPR 2020论文PDF下载（1467篇论文）：[百度云链接](https://pan.baidu.com/s/1DoPNWXpwEkzQdPOrLsO21w) 密码: te6h
-  - [CVPR 2020 开源代码合集](https://github.com/amusi/CVPR2020-Code)
+  - [CVPR 2020 论文开源代码合集](https://github.com/amusi/CVPR2020-Code)
 
 - 2019
   - [CVPR 2019所有录用论文清单](<http://openaccess.thecvf.com/CVPR2019.py>) 
@@ -62,6 +62,8 @@
 
 **ECCV**
 
+- 2020
+  - [ECCV 2020 论文开源代码合集](https://github.com/amusi/ECCV2020-Code)
 - 2018
   - [ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
   - ECCV 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1Mg0Kw9bepUK6_vqqVSOjNQ)   密码: mh97
