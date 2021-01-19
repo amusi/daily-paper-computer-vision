@@ -1,3 +1,11 @@
+- 2020-01-18
+  - [一文梳理缺陷检测方法](https://mp.weixin.qq.com/s/lpNSgrQOFtSeeSK7IIJBMQ)
+  - [AAAI 2021 3D目标检测论文大盘点（CIA-SSD/Voxel R-CNN等）](https://mp.weixin.qq.com/s/sXJI5MBsHL4IiAOXhhYYcQ)
+  - [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/sBSK_jlNfx24qz-rgWAIbg)
+- 2020-01-17
+  - [加快PyTorch训练速度！掌握这17种方法，让你省时省力！](https://mp.weixin.qq.com/s/MiNGHhcY7qFScRBwUKirkQ)
+  - [顶刊TPAMI 2020 | 一文打尽无监督多类域适应：理论，算法与实践](https://mp.weixin.qq.com/s/FlBC0AZ7rP9mTIX0Vkv5NQ)
+  - [目标检测的模型集成方法及实验](https://mp.weixin.qq.com/s/R_qWBAOAC5vmOOB0KhMDRg)
 - 2020-01-16
   - [学术论文投稿与返修（Rebuttal）经验分享](https://mp.weixin.qq.com/s/qbW33ff-gV815rSHsHgOoA)
   - [AAAI 2021 目标检测论文大盘点（YOLObile/R3Det/StarNet等）](https://mp.weixin.qq.com/s/XIZDK-hMZrvdHlZG5Bf9AQ)
