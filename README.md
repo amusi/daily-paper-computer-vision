@@ -36,6 +36,10 @@
 
 - 论文列表：https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf
 
+**WACV 2021**
+
+- 论文列表：http://wacv2021.thecvf.com/program
+
 ### 2020
 
 **CVPR 2020**
