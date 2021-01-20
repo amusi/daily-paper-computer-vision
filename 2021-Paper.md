@@ -1,3 +1,10 @@
+- 2020-01-20
+  - [伯克利大神一人投中16篇！ICLR 2021论文接收统计出炉](https://mp.weixin.qq.com/s/1M0J2zkqwhEb1F1ncZ3JOg)
+  - [全面升级！FastReID V1.0正式开源：Beyond reID](https://mp.weixin.qq.com/s/NSoSRpxgVVnn0NzeDGnwig)
+  - [ICLR 2021 | 自解释神经网络—Shapley Explanation Networks](https://mp.weixin.qq.com/s/yuDNGBihMOrXDyetxbzYwQ)
+- 2020-01-19
+  - [顶刊TPAMI 2021 | 换个损失函数就能实现数据扩增？](https://mp.weixin.qq.com/s/x90x9zJ4V7TzNjD2UrrQgQ)
+  - [阿里巴巴ICBU技术部招人啦](https://mp.weixin.qq.com/s/ItYUBeOsBsm7KRPr_5F46g)
 - 2020-01-18
   - [一文梳理缺陷检测方法](https://mp.weixin.qq.com/s/lpNSgrQOFtSeeSK7IIJBMQ)
   - [AAAI 2021 3D目标检测论文大盘点（CIA-SSD/Voxel R-CNN等）](https://mp.weixin.qq.com/s/sXJI5MBsHL4IiAOXhhYYcQ)
