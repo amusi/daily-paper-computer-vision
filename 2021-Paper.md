@@ -1,3 +1,11 @@
+- 2020-01-26
+  - [霸榜Github：又一款OCR神器面世！](https://mp.weixin.qq.com/s/4qOx63DbZn0HSKo248M2zQ)
+  - [图灵奖得主Yann LeCun的六十年](https://mp.weixin.qq.com/s/JZohY_7VjZeBTOAkW979pA)
+  - [腾讯优图招聘CV算法实习生](https://mp.weixin.qq.com/s/ys4ELCVMB_LKUhfWhCDUnw)
+- 2020-01-25
+  - [龙泉寺贤超法师：用AI为古籍经书识别、断句、翻译](https://mp.weixin.qq.com/s/lirORSFfvdWjxyMuYJEfyA)
+  - [我用YOLO-V5实现行人社交距离风险提示，代码开源！](https://mp.weixin.qq.com/s/ItlJ8UFHfpZZvqqh3FC-xw)
+  - [阿里巴巴达摩院招聘(全职/实习生)](https://mp.weixin.qq.com/s/FQjj5ZhLzNewA7uFJ8ShOQ)
 - 2020-01-24
   - [旷视提出MomentumBN：缓解自监督学习的大batch要求，涨点明显！](https://mp.weixin.qq.com/s/nj03Y7Zjs2tJsGmDBd8XgA)
   - [CenterFusion：雷达和摄像头融合的3D目标检测方法，代码已开源！](https://mp.weixin.qq.com/s/fQUxgwK-E72IQvpZuTjmkQ)
