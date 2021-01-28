@@ -1,3 +1,10 @@
+- 2020-01-28
+  - [CNN+Transformer！谷歌提出BoTNet：新主干网络！在ImageNet上达84.7%准确率！](https://mp.weixin.qq.com/s/oQf5KioEOTG_UvzR3sVCzA)
+  - [2840页的计算机毕业论文！德州奥斯汀华人博士究竟写了啥？](https://mp.weixin.qq.com/s/wFmUpjKpb9DBbBhy-RVYOw)
+  - [用计算机视觉来做异常检测](https://mp.weixin.qq.com/s/KJ6eLE693uXw9I9U_opN-w)
+- 2020-01-07
+  - [2021年微软研究博士奖研金名单出炉！三位华人博士生入选，每人42000美元](https://mp.weixin.qq.com/s/r3nLeWr6mg2YrbpzYqIppg)
+  - [堪比当年的LSTM！Transformer引爆AI圈：它是万能的](https://mp.weixin.qq.com/s/0fuECJKMVY65R2ouTzq40g)
 - 2020-01-26
   - [霸榜Github：又一款OCR神器面世！](https://mp.weixin.qq.com/s/4qOx63DbZn0HSKo248M2zQ)
   - [图灵奖得主Yann LeCun的六十年](https://mp.weixin.qq.com/s/JZohY_7VjZeBTOAkW979pA)
