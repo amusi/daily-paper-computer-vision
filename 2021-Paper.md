@@ -1,3 +1,7 @@
+- 2020-01-29
+  - [没有NMS！阿里巴巴和阿大提出PSS：更简单有效的端到端目标检测](https://mp.weixin.qq.com/s/rir6WllUNIbc3ynJ84i08w)
+  - [对话腾讯17级员工张正友博士：有关梦想、成长和焦虑](https://mp.weixin.qq.com/s/DHvSrHyvYlAgGAe_w1q7-Q)
+  - [不要再用arxiv链接了！为了让论文引用更规范，上交毕业生、南加州大学华人博士创建了一个小工具](https://mp.weixin.qq.com/s/6FN4TR08sIgys3b6ecksbg)
 - 2020-01-28
   - [CNN+Transformer！谷歌提出BoTNet：新主干网络！在ImageNet上达84.7%准确率！](https://mp.weixin.qq.com/s/oQf5KioEOTG_UvzR3sVCzA)
   - [2840页的计算机毕业论文！德州奥斯汀华人博士究竟写了啥？](https://mp.weixin.qq.com/s/wFmUpjKpb9DBbBhy-RVYOw)
