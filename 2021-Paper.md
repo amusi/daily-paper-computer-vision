@@ -1,3 +1,7 @@
+- 2020-01-30
+  - [ResNet被全面超越了！是那个Transformer干的，依图科技开源“可大可小”T2T-ViT，轻量版优于MobileNet](https://mp.weixin.qq.com/s/2FkikfslpawtT1YTBUxy_Q)
+  - [香港城市大学Yixuan Yuan教授招聘CV博士后](https://mp.weixin.qq.com/s/7ZOedcBp3MzdkLoO2d7xUw)
+  - [深度学习中的3个秘密：集成，知识蒸馏和自蒸馏](https://mp.weixin.qq.com/s/YyLTd8B7M4f3hBTybrnUSQ)
 - 2020-01-29
   - [没有NMS！阿里巴巴和阿大提出PSS：更简单有效的端到端目标检测](https://mp.weixin.qq.com/s/rir6WllUNIbc3ynJ84i08w)
   - [对话腾讯17级员工张正友博士：有关梦想、成长和焦虑](https://mp.weixin.qq.com/s/DHvSrHyvYlAgGAe_w1q7-Q)
