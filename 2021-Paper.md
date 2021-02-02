@@ -1,3 +1,14 @@
+- 2020-02-02
+  - [谈CVPR 2021审稿](https://mp.weixin.qq.com/s/wO4sWonhW93ra--fP0rgbg)
+  - [重新思考语义分割范式：SETR](https://mp.weixin.qq.com/s/csq0E2E6Xf9uLHSHLzybdA)
+  - [炸裂！英伟达A100深度学习性能实测：训练速度可达V100的3.5倍](https://mp.weixin.qq.com/s/3pRxVGco-0ZTWUHVVZiKWg)
+- 2020-02-01
+  - [视觉Transformer之简单总结](https://mp.weixin.qq.com/s/E1wSmEB7bKRiS-DqIo6Oqw)
+  - [南京大学提出CPD：通过视频-文本对匹配的视频预训练模型](https://mp.weixin.qq.com/s/Hr9r39K_gFT9YvWv1VNhxg)
+  - [深圳市大数据研究院政务实验室招聘研究科学家和数据工程师](https://mp.weixin.qq.com/s/zz9tKe9paNpjVrrsPCRSLQ)
+- 2020-01-31
+  - [重磅！微信二维码引擎OpenCV开源！3行代码让你拥有微信扫码能力](https://mp.weixin.qq.com/s/7372HCgVSNgoqRgmYBN-zw)
+  - [麦克马斯特大学计算机系褚令洋招收硕士生、博士生啦！](https://mp.weixin.qq.com/s/6fU6GYsThh1-E3panB7dJg)
 - 2020-01-30
   - [ResNet被全面超越了！是那个Transformer干的，依图科技开源“可大可小”T2T-ViT，轻量版优于MobileNet](https://mp.weixin.qq.com/s/2FkikfslpawtT1YTBUxy_Q)
   - [香港城市大学Yixuan Yuan教授招聘CV博士后](https://mp.weixin.qq.com/s/7ZOedcBp3MzdkLoO2d7xUw)
@@ -60,4 +71,25 @@
 - 2021-01-15
   - [阿里CV面试官对招人的几点看法](https://mp.weixin.qq.com/s/0q5vc8cIi17F5tNipteLRQ)
   - [ICLR 2021 | SEED：自监督蒸馏学习，显著提升小模型性能！](https://mp.weixin.qq.com/s/3u3JvPwAkgcduVH_krikAg)
-
+- 2020-01-14
+  - [在阿里Top组10年，我学到了什么？](https://mp.weixin.qq.com/s/hu2obo45uIduPpJ_mKJzmg)
+  - [80GB医学影像数据集发布！OCTA-500公开下载](https://mp.weixin.qq.com/s/UO0l3dbBkB8mN8X9ag7ejw)
+  - [2020首届海洋目标智能感知国际挑战赛 冠军方案分享](https://mp.weixin.qq.com/s/uUIJBxM0PATHSRxDbWbyTg)
+- 2020-01-13
+  - [清华&旷视提出RepVGG：让你的CNN一卷到底！](https://mp.weixin.qq.com/s/taVab243g5GY8zjjPYUo2A)
+  - [商汤科技招聘目标检测和目标跟踪算法实习生](https://mp.weixin.qq.com/s/hvN_eSxJeS-wrySIhr1bIg)
+  - [精准生成Fake人脸！Amazon全新GAN模型给你全方位无死角美颜](https://mp.weixin.qq.com/s/l-eShMV9Avcz1TPH61t5hw)
+- 2020-01-12
+  - [Facebook提出全景分割涨点技巧大礼包！全新训练及数据采样&增强策略、跨尺度泛化强](https://mp.weixin.qq.com/s/wJSKs3lsDZhIqYVNLd59Gg)
+  - [TPAMI 2021 | 深度学习行人重识别综述与展望](https://mp.weixin.qq.com/s/-iBKS-q7QiTbOsxLAwrktQ)
+- 2020-01-11
+  - [涨点神器！SoftPool：一种新的池化方法，带你起飞！](https://mp.weixin.qq.com/s/g_1oUfCGoYFB1ydnZ6mDqw)
+  - [ICLR最高分论文揭秘模型泛化，GNN是潜力股！](https://mp.weixin.qq.com/s/zVpPBPf8HGuz3IbpQ5okVA)
+- 2020-01-10
+  - [关于人工智能算法岗位的一点思考](https://mp.weixin.qq.com/s/vG-l9zdmdDJ8nVJo6HIKDw)
+  - [华为cloud&AI招聘计算机视觉研究实习生](https://mp.weixin.qq.com/s/YDq7Jmd3pvZahT-ludqu4w)
+- 2020-01-09
+  - [腾讯首位17级杰出科学家正式诞生！腾讯AI Lab负责人张正友博士获此殊荣](https://mp.weixin.qq.com/s/piV6sYkvhrJnDEO9EtLPnw)
+  - [缺陷检测比赛Top3方案分享](https://mp.weixin.qq.com/s/qqv12LyAvM5m8nAoe2ELrw)
+  - [商汤科技SCG招聘算法实习生](https://mp.weixin.qq.com/s/7h6YRrPjHZWPNqhiVfcjvQ)
+  - [最佳论文！商汤提出手机端实时单目三维重建系统 | ISMAR 2020](https://mp.weixin.qq.com/s/IJ7c9B6Nq3qqD2Opsk77Fw)
