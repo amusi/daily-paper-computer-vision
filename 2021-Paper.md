@@ -1,3 +1,11 @@
+- 2020-02-04
+  - [目标检测比赛思路、tricks集锦、资料汇总](https://mp.weixin.qq.com/s/wO5jo20AFd66bko3aGFUpg)
+  - [新荣耀公司招聘AI算法专家和工程师（校招/社招）](https://mp.weixin.qq.com/s/EIzeULuoPZ7vugV-FDR9xQ)
+- 2020-02-03
+  - [78万奖金！天池最新CV赛事来了](https://mp.weixin.qq.com/s/gQv9erTcXE08n742YDgH5g)
+  - [当频域（DCT）遇见CNN](https://mp.weixin.qq.com/s/7-S_OysxXiDS_kU4kqOfjQ)
+  - [字节跳动AI Lab机器人研究组招聘（全职&实习）](https://mp.weixin.qq.com/s/p5EbatmgKLJaDV2JDARJcA)
+  - [利用Transformer替代MSA从蛋白序列中学习Contact Map](https://mp.weixin.qq.com/s/IrK9p7BHuANNo5xyJ1T-bQ)
 - 2020-02-02
   - [谈CVPR 2021审稿](https://mp.weixin.qq.com/s/wO4sWonhW93ra--fP0rgbg)
   - [重新思考语义分割范式：SETR](https://mp.weixin.qq.com/s/csq0E2E6Xf9uLHSHLzybdA)
