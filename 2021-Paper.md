@@ -1,3 +1,18 @@
+- 2020-02-11
+  - [代码已开源！效果远超Transformer！AAAI 2021最佳论文Informer：最强最快的序列预测神器](https://mp.weixin.qq.com/s/PqfRD8YsKHVVDNRUt0zrmw)
+  - [重磅！京东21篇论文入选AI顶会AAAI 2021](https://mp.weixin.qq.com/s/iyyhuocIx6SbfQHvmXzTjg)
+- 2020-02-10
+  - [Transformer再下一城！ReID各项任务全面领先，阿里&浙大提出TransReID](https://mp.weixin.qq.com/s/keSckWmEpIEo8iarL5cdoQ)
+  - [Facebook等提出实时3D人脸姿态估计新方法，代码已开源！](https://mp.weixin.qq.com/s/tRMY-fZg9pQlZZRPObC4Xw)
+  - [百度研究院IDL招聘CV算法研究员/资深研究员](https://mp.weixin.qq.com/s/yCYQzZlVDc5MCgjSkBaMog)
+- 2020-02-09
+  - [字节跳动CV方向算法实习生招聘](https://mp.weixin.qq.com/s/EQullDBEdAPcskk7GLzIkg)
+  - [小哥质疑谷歌顶会CV论文有错！并且拿出了复现代码来证明](https://mp.weixin.qq.com/s/jPcSjRv8P8Xt8HM47tPbMQ)
+- 2021-02-08
+  - [2021年AI算法岗求职群来了！](https://mp.weixin.qq.com/s/AeBzpHJ1lvYSCBM4iG4dOA)
+  - [泛化神器！李沐等人提出两种正则化技术：在CV和NLP均有大幅度提升](https://mp.weixin.qq.com/s/erJXAd6tlDzC1Hl66_cfJA)
+  - [2020-2021 CV算法实习面经(京东/商汤/思谋/依图/图森/字节/腾讯)](https://mp.weixin.qq.com/s/zWgySSJb0u4g30qHP7FSlA)
+  - [近距离看CNN训练！360度可视化，网友：美得不真实](https://mp.weixin.qq.com/s/-96w8C-6Kdpb71BD3CptKA)
 - 2021-02-07
   - [火爆GitHub！3.6k Star的可视化神器开源！](https://mp.weixin.qq.com/s/fydJ7ceX_vNykAQpONkJGQ)
   - [DeepMind重新设计高性能ResNet！无需激活归一化层](https://mp.weixin.qq.com/s/nqlPI2wKiKJ4WHLdjqBmew)
@@ -7,7 +22,6 @@
   - [效果远超Transformer！AAAI 2021最佳论文Informer：最强最快的序列预测神器](https://mp.weixin.qq.com/s/89URM73C8_I6bJrxbHgjpw)
   - [南京大学提出置换注意力机制！SA-Net：融合空域与通道注意力](https://mp.weixin.qq.com/s/vXcWm0YIVk9ufQokfLd6cA)
   - [元气森林招聘CV算法工程师（实习+社招）](https://mp.weixin.qq.com/s/g0CvlJdf_16xAUf3Wj_N0Q)
-
 - 2021-02-05
   - [AAAI 2021全部大奖出炉！华人霸屏！北航、华科校友获最佳论文，华南理工获杰出论文](https://mp.weixin.qq.com/s/GbRVtP8ssAKblxpLd48gQQ)
   - [港中文提出SMCA：加快DETR收敛](https://mp.weixin.qq.com/s/xFCDsJfZQsF2ZFYgU0YOHg)
