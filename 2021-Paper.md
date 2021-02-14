@@ -1,11 +1,24 @@
-- 2020-02-11
+- 2021-02-14
+  - [情人节「告白生成器」来了！这个AI能让偶像对你说情话，过于真实！](https://mp.weixin.qq.com/s/97GKzeC45ZrN29sOv6XEKw)
+  - [视觉Transformer上榜！DeepMind科学家：2020年AI领域十大研究进展](https://mp.weixin.qq.com/s/r02ZBtEySw6TeSx1Z_UM-w)
+  - [更精准地生成字幕！哥大&Facebook提出Vx2Text：多模态融合，性能更强！](https://mp.weixin.qq.com/s/DwQTTV8iuDQWYybDIJXwgA)
+  - [vivo2021春季校园招聘正式启动！](https://mp.weixin.qq.com/s/VzjsYxjJk6Z0MDvXSATi5A)
+- 2021-02-13
+  - [本科、硕士、博士的区别（终极版）](https://mp.weixin.qq.com/s/5zoivx6aEroIl56fpXCrQg)
+  - [最强ResNet变体！归一化再见！DeepMind提出NFNet，代码已开源！](https://mp.weixin.qq.com/s/RvcSxw91TJHM52SfbPO-YQ)
+  - [OPPO 2021届春招启动！附内推码](https://mp.weixin.qq.com/s/hRqA6ByCS7ffUbCGnLl2CQ)
+  - [如何用AI实现视频防抖？台湾大学和谷歌提出NeRViS：无需裁剪的全帧视频稳定算法](https://mp.weixin.qq.com/s/OgwlA_6i7MRgGng_Zl1EaA)
+- 2021-02-12
+  - [中科院和微软提出RelationNet++：基于Transformer的目标检测网络](https://mp.weixin.qq.com/s/C2YaMlOOpQXFNSdfpEcapg)
+  - [微软2021年暑期实习生招聘开始！](https://mp.weixin.qq.com/s/lPgmuvNLFH44fsUClR4p0A)
+- 2021-02-11
   - [代码已开源！效果远超Transformer！AAAI 2021最佳论文Informer：最强最快的序列预测神器](https://mp.weixin.qq.com/s/PqfRD8YsKHVVDNRUt0zrmw)
   - [重磅！京东21篇论文入选AI顶会AAAI 2021](https://mp.weixin.qq.com/s/iyyhuocIx6SbfQHvmXzTjg)
-- 2020-02-10
+- 2021-02-10
   - [Transformer再下一城！ReID各项任务全面领先，阿里&浙大提出TransReID](https://mp.weixin.qq.com/s/keSckWmEpIEo8iarL5cdoQ)
   - [Facebook等提出实时3D人脸姿态估计新方法，代码已开源！](https://mp.weixin.qq.com/s/tRMY-fZg9pQlZZRPObC4Xw)
   - [百度研究院IDL招聘CV算法研究员/资深研究员](https://mp.weixin.qq.com/s/yCYQzZlVDc5MCgjSkBaMog)
-- 2020-02-09
+- 2021-02-09
   - [字节跳动CV方向算法实习生招聘](https://mp.weixin.qq.com/s/EQullDBEdAPcskk7GLzIkg)
   - [小哥质疑谷歌顶会CV论文有错！并且拿出了复现代码来证明](https://mp.weixin.qq.com/s/jPcSjRv8P8Xt8HM47tPbMQ)
 - 2021-02-08
