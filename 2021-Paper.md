@@ -1,3 +1,10 @@
+- 2021-02-16
+  - [2021 Fall 申请回忆录 (北美 CS PhD)](https://mp.weixin.qq.com/s/ElQ4Ncmzc4JFfeyPq5VNOA)
+  - [华为cloud&AI fellow预研团队招聘计算机视觉研究实习生](https://mp.weixin.qq.com/s/QA4d-DtItRto374Ur0mrgQ)
+  - [FastFormers：实现Transformers在CPU上223倍的推理加速](https://mp.weixin.qq.com/s/GK0K8EdUkaFTPdFgyDBOvQ)
+- 2021-02-15
+  - [基于深度学习的图像匹配技术一览](https://mp.weixin.qq.com/s/q3jKLKpLBSWtdC7b0nG5yw)
+  - [高通(上海)招聘机器学习研究工程师](https://mp.weixin.qq.com/s/4jlTWmKHoY7yeKfgwDDl8Q)
 - 2021-02-14
   - [情人节「告白生成器」来了！这个AI能让偶像对你说情话，过于真实！](https://mp.weixin.qq.com/s/97GKzeC45ZrN29sOv6XEKw)
   - [视觉Transformer上榜！DeepMind科学家：2020年AI领域十大研究进展](https://mp.weixin.qq.com/s/r02ZBtEySw6TeSx1Z_UM-w)
