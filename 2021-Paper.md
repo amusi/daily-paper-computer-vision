@@ -1,3 +1,10 @@
+- 2021-02-18
+  - [最新！全球学术排名出炉：21所中国大学位居世界100强](https://mp.weixin.qq.com/s/AVSdMgc7Y1lSV8t5neTwQg)
+  - [遮挡场景下视频实例分割怎么做？牛津阿里最新开源OVIS数据集！](https://mp.weixin.qq.com/s/1X03y8qWsfaFj7BSkuH7Ug)
+  - [百度视觉技术部招聘人脸检测方向实习生](https://mp.weixin.qq.com/s/JeST0MXntfa-yBKQ4G9pTw)
+- 2021-02-17
+  - [ETHZ 计算机视觉实验室招聘医学图像分析方向博士后研究员](https://mp.weixin.qq.com/s/BIKxE1FTFb2Pjmqf8lBHzw)
+  - [非科班小白上岸的学习路线](https://mp.weixin.qq.com/s/KYp26YsLlwHLBboO8BoXzQ)
 - 2021-02-16
   - [2021 Fall 申请回忆录 (北美 CS PhD)](https://mp.weixin.qq.com/s/ElQ4Ncmzc4JFfeyPq5VNOA)
   - [华为cloud&AI fellow预研团队招聘计算机视觉研究实习生](https://mp.weixin.qq.com/s/QA4d-DtItRto374Ur0mrgQ)
