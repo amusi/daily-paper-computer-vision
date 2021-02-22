@@ -1,3 +1,17 @@
+- 2021-02-22
+  - [更深、更轻量级的Transformer！Facebook提出：DeLighT](https://mp.weixin.qq.com/s/WzpCfog3iSqQLlra5CB4pA)
+  - [思谋科技春招/社招内推](https://mp.weixin.qq.com/s/oi7ZVDtHUZFpL3YvYKjpKw)
+- 2021-02-21
+  - [北京通用人工智能研究院面向全球诚聘英才（顶尖/领军/青年人才和博士后）](https://mp.weixin.qq.com/s/aQsc_9GJzFPOIeT24GURig)
+  - [Transformer为何能闯入CV界秒杀CNN？](https://mp.weixin.qq.com/s/eSOabk8eVE5j6bOXUGkrgQ)
+  - [重磅！谷歌开源AI模型“搜索引擎”，NLP、CV都能用](https://mp.weixin.qq.com/s/IciE5TuVJ-yeqIcNSe6bcA)
+- 2021-02-20
+  - [我建了一个AI算法岗求职群！](https://mp.weixin.qq.com/s/HMgNghCmvJfSsYW7-hpZkw)
+  - [微软亚洲研究院机器学习组招聘研究实习和全职岗位](https://mp.weixin.qq.com/s/vSPv4EbBzsyWqojrmIG0dQ)
+  - [OpenCV再升级！修改一行代码，将图像匹配效果提升14%！](https://mp.weixin.qq.com/s/Sz6ZWEi6tkP82f5mv0ZgMw)
+- 2021-02-19
+  - [伪标签还能这样用？半监督力作UPS（ICLR 2021）大揭秘！](https://mp.weixin.qq.com/s/yTvrJ7kEYVJEfGoh07peCA)
+  - [有转正机会！阿里达摩院多模态理解组招收研究型实习生](https://mp.weixin.qq.com/s/WaatXxcsZ4mAn1-y1-coZA)
 - 2021-02-18
   - [最新！全球学术排名出炉：21所中国大学位居世界100强](https://mp.weixin.qq.com/s/AVSdMgc7Y1lSV8t5neTwQg)
   - [遮挡场景下视频实例分割怎么做？牛津阿里最新开源OVIS数据集！](https://mp.weixin.qq.com/s/1X03y8qWsfaFj7BSkuH7Ug)
@@ -112,7 +126,7 @@
 
   - [商汤研究院招聘啦！实习/校招/社招全都有](https://mp.weixin.qq.com/s/XhDxrTvv2SDtCBgGFgdpCA)
 - 2021-01-20
-  
+
   - [伯克利大神一人投中16篇！ICLR 2021论文接收统计出炉](https://mp.weixin.qq.com/s/1M0J2zkqwhEb1F1ncZ3JOg)
   - [全面升级！FastReID V1.0正式开源：Beyond reID](https://mp.weixin.qq.com/s/NSoSRpxgVVnn0NzeDGnwig)
   - [ICLR 2021 | 自解释神经网络—Shapley Explanation Networks](https://mp.weixin.qq.com/s/yuDNGBihMOrXDyetxbzYwQ)
