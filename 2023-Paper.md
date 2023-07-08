@@ -1,0 +1,20 @@
+- 2023-07-07
+  - [面试被问到了：手撕Transformer。。。](https://mp.weixin.qq.com/s/4Yg3Vj2p0PFpfqJyjf3BMA)
+  - [首篇综述！Open Vocabulary学习综述：全面调研](https://mp.weixin.qq.com/s/StAv8FqQQj5HEnCZlu7V2A)
+  - [炸裂！微软新作LongNet：将Transformer扩展到10亿个Tokens](https://mp.weixin.qq.com/s/HryMQN75QZH90ClcBrm56g)
+- 2023-07-06
+  - [清华朱军团队新作！使用4位整数训练Transformer，提速35.1%！](https://mp.weixin.qq.com/s/78gsgYlzAxk-1_xp99ccdA)
+  - [Nature子刊！上海交大&上海AI Lab提出胸部X-ray疾病诊断基础模型](https://mp.weixin.qq.com/s/IOKc4-tyf_uVmQbQnSujWw)
+  - [华为大模型登Nature正刊！审稿人：让人们重新审视预报模型的未来](https://mp.weixin.qq.com/s/jkCWwZFsTr0XiXyFxCpanA)
+- 2023-07-05
+  - [中科大和腾讯发布首篇《多模态大语言模型综述》](https://mp.weixin.qq.com/s/VVCfIbWNqkyGb9QXDuAaeg)
+  - [港中大和商汤提出HPS v2：为文本生成图像模型提供更可靠的评价指标](https://mp.weixin.qq.com/s/ndRaGn5dszcADjFbPzolRQ)
+- 2023-07-03
+  - [RSPrompter：遥感图像实例分割利器！基于SAM实现自动分割！](https://mp.weixin.qq.com/s/8dtTS0ByGxYTLAOnie9Qdg)
+- 2023-07-02
+  - [面试被问到了：用C++手撕NMS。。。](https://mp.weixin.qq.com/s/m0iBEXY2jGLCtb7sOL5xgw)
+  - [仅靠“口才”就能解决视觉任务！商汤提出Shikra：新一代多模态大模型](https://mp.weixin.qq.com/s/QqNy2Mqc_OL4uZa6SAZWkg)
+  - [CVPR 2023 | 英伟达提出BundleSDF：对未知物体进行6D追踪和3D重建](https://mp.weixin.qq.com/s/0WnqmiK7CTBC7wH0oJ7xPA)
+- 2023-07-01
+  - [CVPR 2023 | 清华大学提出GAM：可泛化的一阶平滑优化器](https://mp.weixin.qq.com/s/JkQM3RzqvNiLPgJJXuv8zw)
+  - [AIGC时代的ImageNet！百万生成图片助力AI生成图片检测器研发](https://mp.weixin.qq.com/s/64Fpten46cZcpqJ-mdkWMA)
